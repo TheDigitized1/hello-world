@@ -1,2 +1,3 @@
 # hello-world
 My first attempt with big aspirations in mind. :)
+My name is Tim. I like taking long walks...
